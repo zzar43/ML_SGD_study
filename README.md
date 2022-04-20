@@ -4,9 +4,9 @@ This repo is used to store the numerical experiments of the work: stochastic gra
 A preprint version can be found [here](https://zzar43.github.io/doc/Da_SGD_GO.pdf).
 
 ## Notebooks
-- ``toy_prob_1.ipynb'': 1-D toy numerical example
-- ``toy_prob_2.ipynb'': 2-D toy numerical example
-- ``ML_SGD_pytorch.ipynb'': numerical experiments of NNs with PyTorch:
+- [toy_prob_1.ipynb](https://github.com/zzar43/ML_SGD_study/blob/main/toy_prob_1.ipynb): 1-D toy numerical example
+- [toy_prob_2.ipynb](https://github.com/zzar43/ML_SGD_study/blob/main/toy_prob_2.ipynb): 2-D toy numerical example
+- [ML_SGD_pytorch.ipynb](https://github.com/zzar43/ML_SGD_study/blob/main/ML_SGD_pytorch.ipynb): numerical experiments of NNs with PyTorch:
 
 ## Demo
 
