@@ -10,6 +10,6 @@ A preprint version can be found [here](https://zzar43.github.io/doc/Da_SGD_GO.pd
 
 ## Demo
 
-![toy problem 1](https://github.com/zzar43/ML_SGD_study/toy_prob_1.jpeg)
+![toy problem 1](https://github.com/zzar43/ML_SGD_study/blob/main/toy_prob_1.jpeg)
 
-![toy problem 2](https://github.com/zzar43/ML_SGD_study/toy_prob_2.jpeg)
+![toy problem 2](https://github.com/zzar43/ML_SGD_study/blob/main/toy_prob_2.jpeg)
